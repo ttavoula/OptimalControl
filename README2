@@ -1,0 +1,8 @@
+Folders:
+- function_of_final_state_LQR: contains the MATLAB code for the fixed final state LQR simulation
+- LQT_cont_signal: contains the MATLAB code for the LQT simulation (continuous time)
+- LQT_discrete_signal: contains the MATLAB code for the LQT simulation for the discrete signal tracking
+- exp_data: contains the Simulink file of the designed LQT controller used for the experimental part, 
+  along with the script to process the experimental data obtained from the drone (.mat file).
+
+Feel free to contact us if you have any further questions
